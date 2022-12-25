@@ -4,6 +4,8 @@ LANG: PYTHON3
 TASK: friday
 """
 
+import os
+
 f = open('friday.in')
 l = f.readlines()
 f.close()
